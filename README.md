@@ -1,4 +1,4 @@
-# Description.
+# Description.
 
 This is the first repository in Github. I wil use it as a playground to apply and learn more on git commands and workflows. 
 
